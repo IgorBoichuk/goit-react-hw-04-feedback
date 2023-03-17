@@ -1,0 +1,29 @@
+.title {
+  font-size: 50px;
+}
+
+.buttonlist {
+  display: flex;
+  gap: 10px;
+}
+
+.button {
+  font-size: 20px;
+  border-radius: 5px;
+  padding: 5px 20px;
+}
+
+.statistics {
+  font-size: 40px;
+  margin-bottom: 0;
+}
+
+.statlist {
+  list-style: none;
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+.statitem {
+}
