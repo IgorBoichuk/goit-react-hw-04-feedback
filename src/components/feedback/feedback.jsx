@@ -6,18 +6,11 @@ export const Feedback = ({ total, percentage, good, neutral, bad }) => {
   return (
     <div>
       <Statistics
-        // good={state.good}
-        // neutral={state.neutral}
-        // bad={state.bad}
-        // total={total}
-        // percentage={percentage}
-        // state={state}
         good={good}
         neutral={neutral}
         bad={bad}
         total={total}
         percentage={percentage}
-        // state={state}
       />
     </div>
   );
